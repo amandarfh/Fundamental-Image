@@ -8,4 +8,4 @@ On first assignment I have some task to:
 4. display rgb histogram 
 5. Changing color to: grey, hls, hsb, and yuv
 
-My gdoc link:https://docs.google.com/document/d/1Nn6feueOMxinhJPzdNc4IKayhshik02PtsLIa-FCnsM/edit?usp=sharing
+My gdoc link: https://docs.google.com/document/d/1Nn6feueOMxinhJPzdNc4IKayhshik02PtsLIa-FCnsM/edit?usp=sharing
